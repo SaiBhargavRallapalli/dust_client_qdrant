@@ -2,6 +2,7 @@
   "type": "module",
   "dependencies": {
     "@dust-tt/client": "^1.1.16",
-    "axios": "^1.12.2"
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3"
   }
 }
